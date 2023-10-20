@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4089E1502AE223B1004E39CD /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089E14F2AE223B1004E39CD /* BetterRestApp.swift */; };
-		4089E1522AE223B1004E39CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089E1512AE223B1004E39CD /* ContentView.swift */; };
+		4089E1522AE223B1004E39CD /* DatePlaygroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089E1512AE223B1004E39CD /* DatePlaygroundView.swift */; };
 		4089E1542AE223B3004E39CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4089E1532AE223B3004E39CD /* Assets.xcassets */; };
 		4089E1572AE223B3004E39CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4089E1562AE223B3004E39CD /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		4089E14C2AE223B1004E39CD /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4089E14F2AE223B1004E39CD /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
-		4089E1512AE223B1004E39CD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4089E1512AE223B1004E39CD /* DatePlaygroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePlaygroundView.swift; sourceTree = "<group>"; };
 		4089E1532AE223B3004E39CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4089E1562AE223B3004E39CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				4089E14F2AE223B1004E39CD /* BetterRestApp.swift */,
-				4089E1512AE223B1004E39CD /* ContentView.swift */,
+				4089E1512AE223B1004E39CD /* DatePlaygroundView.swift */,
 				4089E1532AE223B3004E39CD /* Assets.xcassets */,
 				4089E1552AE223B3004E39CD /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4089E1522AE223B1004E39CD /* ContentView.swift in Sources */,
+				4089E1522AE223B1004E39CD /* DatePlaygroundView.swift in Sources */,
 				4089E1502AE223B1004E39CD /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
